@@ -1,0 +1,51 @@
+header {
+    color: deeppink;
+    font-size: 30px;
+    text-align: center;
+}
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20 px;
+    line-height: 20px;
+    text-indent: 1em;
+    background-color: lightpink;
+    background-image: url(bkg.jpg);
+    background-repeat: repeat-x;
+    background-position: top;
+    background-size: 0.8cm;
+    background-attachment: fixed;
+
+}
+
+h3 {
+    font: italic 500 23px/20px 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+
+
+h5 {
+    font-size: 15px;
+}
+
+footer {
+    font: italic 100 14px/20px 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+
+a:link {
+    color: lightslategray;
+}
+
+a:visited {
+    color: hotpink;
+}
+
+a:hover {
+    color: deepskyblue;
+    text-decoration: none;
+}
+
+a:active {
+    color: greenyellow;
+}
